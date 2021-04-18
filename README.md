@@ -1,3 +1,7 @@
+---
+description: Team HT Docs의 대문이에요!
+---
+
 # 대문
 
 환영합니다!  
