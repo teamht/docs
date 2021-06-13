@@ -2,9 +2,8 @@
 
 * [대문](README.md)
 
-## 포트 \(PortBot\)
+## 해피트리봇 <a id="happytreebot"></a>
 
-* [소개](portbot/portbot_about.md)
-* [명령어 가이드](portbot/commands.md)
-* [업데이트](portbot/portbot_update.md)
+* [소개](happytreebot/about.md)
+* [명령어 가이드](happytreebot/commands.md)
 
