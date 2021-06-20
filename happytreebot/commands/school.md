@@ -4,7 +4,7 @@ description: Team HT 해피트리봇의 "학교" 명령어 가이드입니다.
 
 # 학교 명령어
 
-## 급식설
+## 급식설정 <a id="settingschoollunch"></a>
 
 {% hint style="info" %}
 급식 알림은 설정 후, 주중\(월~금\) 오전 6시부터 일괄 발송됩니다.
